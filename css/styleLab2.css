@@ -1,0 +1,43 @@
+th {
+    font-style: oblique;
+    font-weight: bold;
+    color:navy;
+    background-color:skyblue;
+    border-style:none;
+    padding: 20px;
+}
+
+.time {
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    background-color: navy;
+    border-style: none;
+}
+
+td {
+    font-family: "Monaco";
+    background-color:lightgrey;
+    padding: 5px;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+a:link {
+    color:yellow;
+}
+
+a:visited {
+    color:darkorange;
+}
+
+a:active {
+    color:mediumblue;
+}
+
+a:hover {
+    cursor: grab;
+}
